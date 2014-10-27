@@ -8,7 +8,7 @@
       </Composition>
     </Body>
     <BinaryData />
-    <Description>Overwrite Composition Desc</Description>
+    <Description>Comp description update for pull test</Description>
     <Attributes>
       <Attribute name="lastPlayed">
         <Value null="true" />
