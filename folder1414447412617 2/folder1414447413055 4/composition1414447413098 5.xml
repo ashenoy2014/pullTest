@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rp:ObjectSet xmlns:rp="http://www.soasta.com/services/repository">
+  <Object type="composition" schemaVersion="6035" name="composition1414447413098 5" path="/folder1414447412617 2/folder1414447413055 4">
+    <Body>
+      <Composition xmlns="http://www.soasta.com/services/repository">
+        <Bands />
+        <Tracks />
+      </Composition>
+    </Body>
+    <BinaryData />
+    <Description>Overwrite Composition Desc</Description>
+    <Attributes>
+      <Attribute name="lastPlayed">
+        <Value null="true" />
+      </Attribute>
+      <Attribute name="successfulPlayCount">
+        <Value>0</Value>
+      </Attribute>
+      <Attribute name="unsuccessfulPlayCount">
+        <Value>1</Value>
+      </Attribute>
+      <Attribute name="stoppedPlayCount">
+        <Value>2</Value>
+      </Attribute>
+      <Attribute name="userData">
+        <Value>this is some user data.</Value>
+      </Attribute>
+    </Attributes>
+  </Object>
+</rp:ObjectSet>
