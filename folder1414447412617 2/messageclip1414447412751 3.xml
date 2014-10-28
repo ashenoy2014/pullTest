@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rp:ObjectSet xmlns:rp="http://www.soasta.com/services/repository">
-  <Object type="messageclip" schemaVersion="6035" name="messageclip1414447412751 3" path="/folder1414447412617 2">
+  <Object type="messageclip" schemaVersion="60035" name="messageclip1414447412751 3" path="/folder1414447412617 2">
     <Body>
       <MessageClip xmlns="http://www.soasta.com/services/repository">
         <Targets />
